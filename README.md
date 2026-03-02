@@ -1,4 +1,4 @@
-# Orders-Inbox
+# End-to-End Data Analytics Workflow in Palantir Foundry
 # Palantir Foundry Data Analytics Project
 
 ## Overview
