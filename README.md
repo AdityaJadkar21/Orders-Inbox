@@ -4,6 +4,9 @@
 ## Overview
 This project was developed using **Palantir Foundry** to perform data analysis, transformation, and visualization. The goal of the project is to process raw datasets, generate insights, and build analytical dashboards for decision-making.
 
+## Project link
+https://aditya21.euw-3.palantirfoundry.co.uk/workspace/compass/view/ri.compass.main.folder.1aa53214-6eff-4939-9487-178158fc2d86
+
 ## Objectives
 - Perform data cleaning and preprocessing
 - Build transformation pipelines
@@ -33,3 +36,4 @@ This project was developed using **Palantir Foundry** to perform data analysis, 
 ## Project Structure
 <img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/92aedccc-ef55-47a1-a3a7-75327aef7563" />
 <img width="1739" height="662" alt="image" src="https://github.com/user-attachments/assets/1d3dd7af-f217-40a4-9dfb-96cec01a3662" />
+
